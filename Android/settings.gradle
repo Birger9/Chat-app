@@ -1,0 +1,2 @@
+rootProject.name='TDDD80 Project 2'
+include ':app'

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Just Another Chat App</string>
+    <string name="username_login">Username</string>
+    <string name="sign_in">Sign in</string>
+    <string name="password_login">Password</string>
+    <string name="register">Register</string>
+    <string name="email">Email</string>
+    <string name="back">Back</string>
+    <string name="username_taken">Username is already taken!</string>
+    <string name="username_not_exist">Inputted username does not exist!</string>
+    <string name="wrong_password">Wrong password, try again!</string>
+    <string name="account_created">Account created, try it out!</string>
+    <string name="todo">TODO</string>
+    <string name="add_friend">Add Friend</string>
+    <string name="remove_friend">Remove Friend</string>
+    <string name="block">Block</string>
+    <string name="chat">Chat</string>
+    <string name="sent_requests">Sent requests</string>
+    <string name="recieved_requests">Received requests</string>
+    <string name="friends_yes">You are friends!</string>
+    <string name="friends_no">You are not friends yet!</string>
+    <string name="pending">You have sent a friend request!</string>
+    <string name="x">X</string>
+    <string name="acceptFriend">Accept</string>
+    <string name="declineFriend">Decline</string>
+    <string name="blockFriend">Block</string>
+    <string name="blockedInfo">User is blocked!</string>
+    <string name="unblock">Unblock</string>
+    <string name="profileBlocked">Blocked</string>
+    <string name="input_placeholder">Write a message</string>
+    <string name="write_a_message">Write a message</string>
+    <string name="validemail">Input a valid email</string>
+</resources>
+
+
